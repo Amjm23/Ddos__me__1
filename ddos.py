@@ -314,22 +314,15 @@ try:
                     {green}╠═╣ ║  ║ ╠═╣║  ╠╩╗ {red}───{green} ╚═╗ ║ ╠═╣╠╦╝ ║ ║╣  ║║ {green}Amjm{red}-{green}DDoS {green}V{cyan}3
                     {green}╩ ╩ ╩  ╩ ╩ ╩╚═╝╩ ╩     ╚═╝ ╩ ╩ ╩╩╚═ ╩ ╚═╝═╩╝ {red}Created {blue}By {yellow}Am {magenta}Jm
 
-            {cyan}╔══════════════════════════════════════════════════════════════════╗
-            {yellow} Method {red}: {yellow}[ {green}{method}{yellow} ]
-            {yellow} Target {red}: {yellow}[ {green}{url}{yellow} ]
-            {yellow} Port   {red}: {yellow}[ {green}{port}{yellow} ]
-            {yellow} Thread {red}: {yellow}[ {green}{threads}{yellow} ]
-            {yellow} Rpc    {red}: {yellow}[ {green}{rpc}{yellow} ]
-            {yellow} Timer  {red}: {yellow}[ {green}{timme}s{yellow} ]
-            {cyan}╚══════════════════════════════════════════════════════════════════╝
-            {cyan}╔══════════════════════════════════════════════════════════════════╗
-            {yellow} Date   {red}: {yellow}[ {green}{date}{yellow} ]
-            {yellow} Time   {red}: {yellow}[ {green}{timee}{yellow} ]
-            {yellow} Isp    {red}: {yellow}[ {green}{isp}{yellow} ]
-            {yellow} Zone   {red}: {yellow}[ {green}{zone}{yellow} ]
-            {yellow} City   {red}: {yellow}[ {green}{city}{yellow} ]
-            {yellow} Tool   {red}: {yellow}[ {red}Amjm{green}-{cyan}DDoS{yellow} ]
-            {cyan}╚══════════════════════════════════════════════════════════════════╝
+            {red}╔══════════════════════════════════════════════════════════════════╗
+            {red} Method {white}: {white}[ {red}{method}{red} ]
+            {red} Target {white}: {white}[ {red}{url}{red} ]
+            {red} Port   {white}: {white}[ {red}{port}{red} ]
+            {red} Thread {white}: {white}[ {red}{threads}{red} ]
+            {red} Rpc    {white}: {white}[ {red}{rpc}{red} ]
+            {red} Timer  {white}: {white}[ {red}{timme}s{red} ]
+            {red}╚══════════════════════════════════════════════════════════════════╝
+            
 {yellow}\nNote {red}: {cyan}Hi Guys if You Liked This Tool Pls follow Telegram Channel {green}https://t.me/@Amjm_DDoS
 """
 except:
